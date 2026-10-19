@@ -36,14 +36,14 @@ Translates between Portuguese and English in a way that sounds human — not lik
 ### [UX Copy A11Y](ux-copy-a11y.html)
 **Accessibility Content Toolkit · v2 · PT/EN**
 
-Audits UX copy for accessibility compliance against the EAA (European Accessibility Act) and WCAG 2.2. Flags issues and generates compliant alternatives. Covers error messages, empty states, CTAs, form labels, alt text, and more.
+Standards-first tool for auditing UX copy against the EAA (European Accessibility Act), WCAG 2.2, or both. Select the standard, paste your content, and get a compliance report with flagged issues and compliant alternatives. Covers error messages, empty states, CTAs, form labels, alt text, and more.
 
 ---
 
 ### [UX Copy Toolkit](ux-copy-toolkit.html)
 **Audit & Create Accessible UX Copy · v3 · PT/EN**
 
-A more complete toolkit for auditing and generating accessible UX copy. Combines content review, compliance checking, and copy creation in one interface.
+Brand-guidelines-first tool for reviewing and creating UX copy that follows your product's voice while meeting accessibility standards. Load your own guidelines or start from built-in templates (healthcare, e-commerce, and others). Audits for accessibility on top of brand alignment.
 
 ---
 
